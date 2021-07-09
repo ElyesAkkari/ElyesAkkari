@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers!
-- ⚡ Fun fact: I love to draw and play guitar / drums.
 - 🥅 2021 Goals: Contribute more to Open Source projects and be more actif on GitHub.
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
