@@ -16,6 +16,9 @@
 <a href="mailto:elyes.akkari@esprit.tn?subject=Github+advice"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+
+
+
 <br>
 
 
@@ -42,15 +45,18 @@
 
 
 ---
+<a href="https://github.com/ElyesEsp">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyesEsp&count_private=true&hide_border=true&show_icons=true&theme=react" alt="ElyesEsp's github stats">
+</a>
+<a href="https://github.com/ElyesEsp" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesEsp&layout=compact&theme=react&hide_border=true" alt="ElyesEsp's github stats">
+</a>
 
-<p align="center">
-  <a href="https://github.com/ElyesEsp">
-    <img src="https://github-readme-stats.vercel.app/api?username=ElyesEsp&count_private=true&hide_border=true&show_icons=true&theme=react" alt="ElyesEsp's github stats">
-  </a>
-  <a href="https://github.com/ElyesEsp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyesEsp&layout=compact&hide_border=true&show_icons=true&count_private=true&theme=react" alt="Shady7781's github stats">
-  </a>
-</p>
+
+
+
+  
+
 
 
 [website]: https://codeSTACKr.com
