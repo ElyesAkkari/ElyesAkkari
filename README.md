@@ -15,7 +15,7 @@
 
 - 🤔 I’m lalso working as a Freelancer at Upwork.
 
-- 🥅 2021 Goals: Contribute more to Open Source projects and be more actif on GitHub.
+- 🥅 2022 Goals: Contribute more to Open Source projects and be more actif on GitHub.
 
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
