@@ -23,7 +23,7 @@
 
 [linkedin]: https://www.linkedin.com/in/elyes-akkari-26013a1b9/
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills</h2>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 32px> Skills</h2>
 <p align="center">
 <img align="center" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,7 +40,7 @@
 <img align="center" alt="Symfony" width="40" height="40" src="https://www.logiciel-libre.org/stock/img/product/logo-symfony.png" />
 </p>
   
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2>
+<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60px"> Connect with me</h2>
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/elyes-akkari-26013a1b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
@@ -50,7 +50,7 @@
 <br>
 <br>
   <br>
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Stats</b></i></h2>
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" alt="Git"/>&nbsp;<i><b>Git Stats</b></i></h2>
   
 [![Elyes's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ElyesAkkari&theme=tokyonight)](https://git.io/praveenscience)
 
